@@ -1,7 +1,7 @@
 streamlit
-streamlit-webrtc
-opencv-python-headless
+# streamlit-webrtc
+# opencv-python-headless
 pandas
 numpy
-# opencv-python
-# mediapipe
+opencv-python
+mediapipe
