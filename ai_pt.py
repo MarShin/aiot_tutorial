@@ -9,7 +9,6 @@ mp_holistic = mp.solutions.holistic
 cap = cv2.VideoCapture(0)
 
 st.title("Webcam Live Feed")
-# st.text("Press 'q' to exit")
 
 frame_placeholder = st.empty()
 stop_button_pressed = st.button("Stop")
